@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Khushi-013
 - 👀 I’m interested in ...exploring new learning zone
 - 🌱 I’m currently learning ...C programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...web designing
+- 📫 How to reach me ...https://www.linkedin.com/feed/
 
 <!---
 Khushi-013/Khushi-013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
