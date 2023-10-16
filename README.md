@@ -14,7 +14,9 @@ I'm Khushi Sinha, a passionate mobile app developer with a deep love for technol
 
 Feel free to explore my repositories and discover the projects that reflect my journey and interests. Let's connect and collaborate, because together, we can code the future! 🚀
 
-📫 Reach out to me: [LinkedIn](https://www.linkedin.com/in/khushi-sinha/) <!---| [Twitter](https://twitter.com/yourhandle)
+📫 Reach out to me: [LinkedIn](https://www.linkedin.com/in/khushi-sinha/) 
+
+<!---| [Twitter](https://twitter.com/yourhandle)
 
 🌐 Explore my personal website: [YourWebsite.com](https://www.yourwebsite.com)--->
 
